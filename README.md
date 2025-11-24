@@ -1,6 +1,5 @@
-## ### Hi there, I'm - [harun][website] 👋
+### Hi there, I'm Harun - [harun][website] 👋
 [![Website](https://img.shields.io/website?label=harunozguler.github.io&style=for-the-badge&url=https%3A%2F%2Fharunozguler.github.io)](https://harunozguler.github.io)
-[website]: [https://harunozguler.github.io/]
 <!--
 **harunozguler/harunozguler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[website]: [https://harunozguler.github.io/]
